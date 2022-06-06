@@ -1,1 +1,1 @@
-declare '*.jpg'
+declare module '*.jpg';
