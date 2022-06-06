@@ -15,6 +15,7 @@ import * as S from './styles';
 // Data
 import data from '../../data';
 import HeaderText from './components/HeaderText';
+import Start from './components/Start/index';
 
 // Properties types
 export interface GnomeProps {
@@ -89,6 +90,7 @@ const Main = () => {
                     />
                     <Header  tinColor={tinColor} />
                     <HeaderText data={data} index={index} tintColor={tinColor} />
+                    <Start stars={gnome.stars}/>
                 </S.Content>
             </GestureDetector>
         </S.Container>
