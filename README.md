@@ -2,7 +2,7 @@
 
 Animation With React Native only create a concepts UI and UX   
 
-## Advantages Viper
+## Advantages
 
 - [x] TypeScript 
 - [x] Twaliwnd css 
@@ -22,7 +22,6 @@ This project require XCode 13.3, Swift 5.0 and should be run on device with iOS 
   <tr>
     <td>Contct List</td>
      <td>search Items</td>
-     <td>Empty List</td>
   </tr>
   <tr>
     <td><img src="https://github.com/memof90/screenProjects/blob/master/Gnoma/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-06-13%20at%2014.49.16.png?raw=true" width=270 height=580></td>
@@ -34,7 +33,6 @@ This project require XCode 13.3, Swift 5.0 and should be run on device with iOS 
   <tr>
     <td>Contct List</td>
      <td>search Items</td>
-     <td>Empty List</td>
   </tr>
   <tr>
     <td><img src="https://github.com/memof90/screenProjects/blob/master/Gnoma/Simulator%20Screen%20Shot%20-%20iPhone%2013%20Pro%20-%202022-06-13%20at%2014.49.30.png?raw=true" width=270 height=580></td>
