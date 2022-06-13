@@ -18,6 +18,7 @@ import HeaderText from './components/HeaderText';
 import Start from './components/Start/index';
 import Avatar from './components/Avatar';
 import BottomContent from './components/BottomContent';
+import BottomBar from './components/BottomBar';
 
 // Properties types
 export interface GnomeProps {
@@ -97,6 +98,7 @@ const Main = () => {
                     <BottomContent currentWins={gnome.wins}  tintColor={tinColor}/>
                 </S.Content>
             </GestureDetector>
+                <BottomBar tintColor={tinColor}/>
         </S.Container>
     );
 };
