@@ -13,8 +13,6 @@ Animation With React Native only create a concepts UI and UX
 
 ![alt text](https://github.com/memof90/screenProjects/blob/master/Gnoma/ezgif.com-gif-maker.gif?raw=true)
 
-## Instalation
-This project require XCode 13.3, Swift 5.0 and should be run on device with iOS 15+ and then, you should `run` the app.
 
  ## Screens Apps
  
